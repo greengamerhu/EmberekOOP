@@ -15,5 +15,16 @@ public class Emberek {
             this.emberek.add(e);
 
     * */
+
+
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder s = new StringBuilder(String.format("%30s | %10s (%3s)| %-20s ", "Név", "Szül-dátum", "kor", "Szülhely"));
+        for (int i = 0; i < this.emberek.size(); i++) {
+            s.append(System.lineSeparator()).append(this.emberek.get(i));
+        }
+        return s.toString();
     }
 }
