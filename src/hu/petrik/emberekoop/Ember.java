@@ -26,8 +26,13 @@ public class Ember {
         return  Integer.parseInt(szuletesiAdatok[2]);
     }
     public int getEletkor() {
+        LocalDate dt = LocalDate.now();
+        if ( dt.getMonthValue() < this.getSzuletesiHonap()  || (this.getSzuletesiHonap() == dt.getMonthValue() && this.getSzuletesiNap() > dt.getDayOfMonth())  ) {
+            return (dt.getYear() - this.getSzuletesiEv()) -1;
+        } else {
+            return dt.getYear() - this.getSzuletesiEv();
+        }
 
-        return LocalDate.now().getYear() - this.getSzuletesiEv();
     }
     @Override
     public String toString() {
