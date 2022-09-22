@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b65e037-47bb-4abd-8e61-dc7ddb9e4b2b" name="Changes" comment="Emberek osztály kész">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="1b65e037-47bb-4abd-8e61-dc7ddb9e4b2b" name="Changes" comment="Készen van az alap feladat sor" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663857955449</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Készen van az alap feladat sor">
+      <created>1663860067636</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860067636</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,6 +95,7 @@
     <MESSAGE value="Elkészültek az adattagok, paraméteres konstruktorok, 3 példány létrehozva" />
     <MESSAGE value="Ember Osztályban Szuletesev,honap,nap getterek" />
     <MESSAGE value="Emberek osztály kész" />
-    <option name="LAST_COMMIT_MESSAGE" value="Emberek osztály kész" />
+    <MESSAGE value="Készen van az alap feladat sor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Készen van az alap feladat sor" />
   </component>
 </project>
