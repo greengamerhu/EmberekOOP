@@ -11,6 +11,17 @@ public class Ember {
         this.szulhely = szulhely;
 
     }
+    public int getSzuletesiEv() {
+        return Integer.parseInt(this.szuldatum.substring(0,4));
+    }
+    public int  getSzuletesiHonap () {
+        String[] szuletesiAdatok = this.szuldatum.split("-");
+        return  Integer.parseInt(szuletesiAdatok[1]);
+    }
+    public int  getSzuletesiNap () {
+        String[] szuletesiAdatok = this.szuldatum.split("-");
+        return  Integer.parseInt(szuletesiAdatok[2]);
+    }
 
     @Override
     public String toString() {
