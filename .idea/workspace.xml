@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b65e037-47bb-4abd-8e61-dc7ddb9e4b2b" name="Changes" comment="Készen van az alap feladat sor" />
+    <list default="true" id="1b65e037-47bb-4abd-8e61-dc7ddb9e4b2b" name="Changes" comment="Forrás álomány belekerült">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Emberek.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/emberekoop/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,9 +33,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/rimoc/Desktop/14s/Java/EmberekOOP"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rimoc\Desktop\14s\Java\EmberekOOP" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663860067636</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Forrás álomány belekerült">
+      <created>1663860164670</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663860164684</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +113,7 @@
     <MESSAGE value="Ember Osztályban Szuletesev,honap,nap getterek" />
     <MESSAGE value="Emberek osztály kész" />
     <MESSAGE value="Készen van az alap feladat sor" />
-    <option name="LAST_COMMIT_MESSAGE" value="Készen van az alap feladat sor" />
+    <MESSAGE value="Forrás álomány belekerült" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forrás álomány belekerült" />
   </component>
 </project>
